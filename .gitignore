@@ -1,0 +1,26 @@
+# vec databases
+chroma_store/
+chroma_store_local/
+chroma_store_ollama/
+
+# chat logs
+conversation_log.txt
+
+# papers
+recent_advances/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# env files
+.env
+*.env
+
+# os files
+.DS_Store
+Thumbs.db
+
+# ide files
+.vscode/
