@@ -1,5 +1,7 @@
 # fully local rag chatbot for research
 
+https://github.com/user-attachments/assets/306becc6-f14d-443a-b875-7ed46c8e5cf5
+
 ask questions about your papers locally. no apis, no data sent anywhere.
 
 ## features
